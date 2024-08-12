@@ -4,8 +4,8 @@ navbar_name: "Pengfei Xu"
 
 positions:
  - logo: /assets/images/badges/SZU.png  # Logo is optional
-#   name: Position 1 with logo
-- name: Associate Professor @ Shenzhen University
+   name: Associate Professor @ Shenzhen University
+#- name: Associate Professor @ Shenzhen University
 # - affiliation: Shenzhen University
 - address: L6-808-B, South Campus, Shenzhen University, China
 
