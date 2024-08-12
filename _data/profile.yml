@@ -1,5 +1,5 @@
 primary_name: "Pengfei Xu"
-secondary_name: ""
+secondary_name: "Pengfei"
 navbar_name: "Pengfei Xu"
 
 positions:
@@ -9,7 +9,7 @@ positions:
 - affiliation: Shenzhen University
 
 
-email: "xupengfei.cg@email.com"
+email: "xupengfei.cg@email.com, pengfeixu@szu.edu.cn"
 # cv_link: link-to-your-cv-file
 gscholar: your_google_scholar_id
 # github: your_github_id
@@ -33,31 +33,33 @@ portrait_caption: >-
   Pengfei Xu, Shenzhen University.
 
 education:
-- name: Zhejiang University
+- name: HKUST
   logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Mathmatics
-  date: Sep. 2005 - Jul. 2009
+  position: PhD in CSE
+  date: Feb. 2012 - Jan. 2015
 
 - name: HKUST
   logo: /assets/images/badges/PKU_red.png
   position: MPhil in CSE
   date: Feb. 2010 - Jan. 2012
 
-- name: HKUST
+- name: Zhejiang University
   logo: /assets/images/badges/PKU_red.png
-  position: PhD in CSE
-  date: Feb. 2012 - Jan. 2015
+  position: B.S. in Mathmatics
+  date: Sep. 2005 - Jul. 2009
 
 experience:
+
+- name: HKUST
+  logo: /assets/images/badges/PKU_red.png
+  position: Postdoctoral Research Fellow 
+  date: Feb. 2015 - Feb. 2016
+
 - name: Tsinghua University
   logo: /assets/images/badges/PKU_red.png
   position: Research Intern
   date: Sep. 2009 - Jan. 2010
 
-- name: HKUST
-  logo: /assets/images/badges/PKU_red.png
-  position: postdoctoral research fellow 
-  date: Feb. 2015 - Feb. 2016
 
 
 # awards:
