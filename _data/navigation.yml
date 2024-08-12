@@ -2,7 +2,7 @@ pages:
 - name: Home
   url: /
 - name: Publications
-  url: /#all_pubs_id
+  url: /#all_publications
 
 
 
