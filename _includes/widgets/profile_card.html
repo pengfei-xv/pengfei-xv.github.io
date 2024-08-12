@@ -7,7 +7,7 @@
                         <div class="h1 font-weight-normal">
                             {{ site.data.profile.primary_name }} <small>{{ site.data.profile.secondary_name }}</small>
                         </div>
-                        <div class="h3 text-profile-position">
+                        <div class="text-profile-position">
                             {% for position in site.data.profile.positions %}
                             {% if position.logo -%}
                             <img src="{{ position.logo | relative_url }}" alt="Logo" class="inline-badge"/>
