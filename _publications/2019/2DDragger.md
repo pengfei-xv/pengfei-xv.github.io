@@ -1,6 +1,6 @@
 ---
 title:          "2D-Dragger: Unified Touch-based Target Acquisition with Constant Effective Width"
-date:           2016
+date:           2016-01-01 00:01:00 +0800
 selected:       true
 pub:            "MobileHCI"
 pub_date:       "2016"
@@ -14,5 +14,5 @@ authors:
 - Chiew-Lan Tai
 links:
   # Paper: 
-  # Project: http://vcc.szu.edu.cn/research/2016/2Ddragger
+  Project: http://vcc.szu.edu.cn/research/2016/2Ddragger
 ---

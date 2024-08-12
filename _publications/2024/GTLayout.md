@@ -1,6 +1,6 @@
 ---
 title:          "GTLayout: Learning General Trees for Structured Grid Layout Generation"
-date:           2024-04
+date:           2024-04-01 00:01:00 +0800
 selected:       true
 pub:            "Computational Visual Media"
 # pub_pre:        "Submitted to "
@@ -18,6 +18,5 @@ authors:
   - Hongbo Fu
   - Hui Huang
 links:
-  # Code: https://github.com/Warren-swr/GT-Layout
-  # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
+  Code: https://github.com/Warren-swr/GT-Layout
 ---

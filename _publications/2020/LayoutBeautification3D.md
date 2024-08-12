@@ -1,6 +1,6 @@
 ---
 title:          "Global Beautification of 2D and 3D Layouts with Interactive Ambiguity Resolution"
-date:           2020
+date:           2020-01-01 00:01:00 +0800
 selected:       true
 pub:            "IEEE Transactions on Visualization and Computer Graphics"
 pub_date:       "2020"
@@ -15,5 +15,5 @@ authors:
 - Hui Huang
 links:
   # Paper: 
-  # Project: https://vcc.tech/research/2020/Layouts
+  Project: https://vcc.tech/research/2020/Layouts
 ---

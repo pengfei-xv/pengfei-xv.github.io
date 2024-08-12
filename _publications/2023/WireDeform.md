@@ -1,6 +1,6 @@
 ---
 title:          "Screen Space Shape Manipulation by Global Structural Optimization"
-date:           2023-08
+date:           2023-08-01 00:01:00 +0800
 selected:       true
 pub:            "Computers & Graphics"
 pub_date:       "2023"
@@ -13,5 +13,5 @@ authors:
 - Hui Huang
 links:
   # Paper: 
-  # Project: https://vcc.tech/research/2023/WireDeform
+  Project: https://vcc.tech/research/2023/WireDeform
 ---

@@ -1,6 +1,6 @@
 ---
 title:          "Lazy Selection: a scribble-based tool for smart shape elements selection"
-date:           2012-11
+date:           2012-11-01 00:01:00 +0800
 selected:       true
 pub:            "ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2012)"
 pub_date:       "2012"

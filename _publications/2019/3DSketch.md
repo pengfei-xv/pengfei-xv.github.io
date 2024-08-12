@@ -1,6 +1,6 @@
 ---
 title:          "Model-Guided 3D Sketching"
-date:           2018
+date:           2018-01-01 00:01:00 +0800
 selected:       true
 pub:            "IEEE Transactions on Visualization and Computer Graphics"
 pub_date:       "2018"
@@ -15,5 +15,5 @@ authors:
 - Chiew-Lan Tai
 links:
   # Paper: 
-  # Project: http://vcc.szu.edu.cn/research/2018/3D-Sketch
+  Project: http://vcc.szu.edu.cn/research/2018/3D-Sketch
 ---

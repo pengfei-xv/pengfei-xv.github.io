@@ -1,6 +1,6 @@
 ---
 title:          "Hierarchical Layout Blending with Recursive Optimal Correspondence"
-date:           2022-11
+date:           2022-11-01 00:01:00 +0800
 selected:       true
 pub:            "ACM Transactions on Graphics (Proceedings of SIGGRAPH Asia 2022)"
 pub_date:       "2022"
@@ -15,6 +15,6 @@ authors:
 - Hui Huang
 links:
   # Paper: 
-  # Project: https://vcc.tech/research/2022/HierarchiLayout
-  # Code: https://github.com/lyf7115/LayoutBlending
+  Project: https://vcc.tech/research/2022/HierarchiLayout
+  Code: https://github.com/lyf7115/LayoutBlending
 ---

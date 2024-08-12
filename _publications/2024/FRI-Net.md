@@ -1,6 +1,6 @@
 ---
 title:          "FRI-Net: Floorplan Reconstruction via Room-wise Implicit Representation"
-date:           2024-7-12 00:01:00 +0800
+date:           2024-07-01 00:01:00 +0800
 selected:       true
 pub:            "European Conference on Computer Vision (ECCV)"
 # pub_pre:        "Submitted to "
@@ -19,5 +19,5 @@ authors:
   - Hui Huang
   - Ruizhen Hu
 links:
-  # Code: https://github.com/Daisy-1227/FRI-Net
+  Code: https://github.com/Daisy-1227/FRI-Net
 ---
