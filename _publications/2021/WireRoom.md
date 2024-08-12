@@ -7,13 +7,11 @@ pub_date:       "2021"
 # abstract: >-
 cover:          /assets/images/covers/wireroom.jpg
 authors:
-- Pengfei Xu
-- Yifan Li
 - Zhijin Yang
-- Weiran Shi
-- HOngbo Fu
+- Pengfei Xu#
+- Hongbo Fu
 - Hui Huang
 links:
   # Paper: 
-  Project: https://vcc.tech/research/2021/WireRoom
+  # Project: https://vcc.tech/research/2021/WireRoom
 ---

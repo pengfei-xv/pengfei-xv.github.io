@@ -15,5 +15,5 @@ authors:
 - Hui Huang
 links:
   # Paper: 
-  Project: https://vcc.tech/research/2020/Layouts
+  # Project: https://vcc.tech/research/2020/Layouts
 ---

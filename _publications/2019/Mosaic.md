@@ -13,5 +13,5 @@ authors:
 - Hui Huanga
 links:
   # Paper: 
-  Project: http://vcc.szu.edu.cn/research/2019/Mosaic
+  # Project: http://vcc.szu.edu.cn/research/2019/Mosaic
 ---

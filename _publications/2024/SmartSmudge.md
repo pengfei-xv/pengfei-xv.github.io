@@ -19,6 +19,6 @@ authors:
   - Henry Lau
   - Wenping Wang
 links:
-  Paper: https://arxiv.org/html/2405.02759v1
-  Video: https://www.youtube.com/watch?v=x6iYQxnVQsM
+  # Paper: https://arxiv.org/html/2405.02759v1
+  # Video: https://www.youtube.com/watch?v=x6iYQxnVQsM
 ---

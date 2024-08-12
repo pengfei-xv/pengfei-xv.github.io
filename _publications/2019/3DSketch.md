@@ -15,5 +15,5 @@ authors:
 - Chiew-Lan Tai
 links:
   # Paper: 
-  Project: http://vcc.szu.edu.cn/research/2018/3D-Sketch
+  # Project: http://vcc.szu.edu.cn/research/2018/3D-Sketch
 ---

@@ -18,6 +18,6 @@ authors:
   - Hongbo Fu
   - Hui Huang
 links:
-  Code: https://github.com/Warren-swr/GT-Layout
+  # Code: https://github.com/Warren-swr/GT-Layout
   # Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---

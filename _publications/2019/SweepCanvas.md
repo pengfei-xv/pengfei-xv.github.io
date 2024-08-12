@@ -14,5 +14,5 @@ authors:
 - Hongbo Fu
 links:
   # Paper: 
-  Project: http://vcc.szu.edu.cn/research/2017/SweepCanvas
+  # Project: http://vcc.szu.edu.cn/research/2017/SweepCanvas
 ---

@@ -15,6 +15,6 @@ authors:
 - Hui Huang
 links:
   # Paper: 
-  Project: https://vcc.tech/research/2022/HierarchiLayout
-  Code: https://github.com/lyf7115/LayoutBlending
+  # Project: https://vcc.tech/research/2022/HierarchiLayout
+  # Code: https://github.com/lyf7115/LayoutBlending
 ---

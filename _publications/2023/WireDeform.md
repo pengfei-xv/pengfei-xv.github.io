@@ -13,5 +13,5 @@ authors:
 - Hui Huang
 links:
   # Paper: 
-  Project: https://vcc.tech/research/2023/WireDeform
+  # Project: https://vcc.tech/research/2023/WireDeform
 ---

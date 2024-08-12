@@ -14,5 +14,5 @@ authors:
 - Chiew-Lan Tai
 links:
   # Paper: 
-  Project: http://vcc.szu.edu.cn/research/2016/2Ddragger
+  # Project: http://vcc.szu.edu.cn/research/2016/2Ddragger
 ---
