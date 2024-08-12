@@ -35,29 +35,39 @@ portrait_caption: >-
 
 education:
 - name: HKUST
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/HKUST.png
   position: PhD in CSE
   date: Feb. 2012 - Jan. 2015
 
 - name: HKUST
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/HKUST.png
   position: MPhil in CSE
   date: Feb. 2010 - Jan. 2012
 
 - name: Zhejiang University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/ZJU.png
   position: B.S. in Mathmatics
   date: Sep. 2005 - Jul. 2009
 
 experience:
 
+- name: Shenzhen University
+  logo: /assets/images/badges/SZU.png
+  position: Associate Professor
+  date: Aug. 2023 - Present
+
+- name: Shenzhen University
+  logo: /assets/images/badges/SZU.png
+  position: Assitant Professor/Associate Researcher  
+  date: Apr. 2016 - Jul. 2023
+
 - name: HKUST
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/HKUST.png
   position: Postdoctoral Research Fellow 
   date: Feb. 2015 - Feb. 2016
 
 - name: Tsinghua University
-  logo: /assets/images/badges/PKU_red.png
+  logo: /assets/images/badges/THU.png
   position: Research Intern
   date: Sep. 2009 - Jan. 2010
 
