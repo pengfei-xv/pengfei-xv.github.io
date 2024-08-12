@@ -41,12 +41,12 @@ education:
 - name: HKUST
   logo: /assets/images/badges/PKU_red.png
   position: MPhil in CSE
-  data: Feb. 2010 - Jan. 2012
+  date: Feb. 2010 - Jan. 2012
 
 - name: HKUST
   logo: /assets/images/badges/PKU_red.png
   position: PhD in CSE
-  data: Feb. 2012 - Jan. 2015
+  date: Feb. 2012 - Jan. 2015
 
 experience:
 - name: Tsinghua University
