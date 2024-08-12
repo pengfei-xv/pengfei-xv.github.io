@@ -37,12 +37,12 @@ education:
   position: B.S. in Mathmatics
   date: Sep. 2005 - Jul. 2009
 
-  name: HKUST
+- name: HKUST
   logo: /assets/images/badges/PKU_red.png
   position: MPhil in CSE
   data: Feb. 2010 - Jan. 2012
 
-  name: HKUST
+- name: HKUST
   logo: /assets/images/badges/PKU_red.png
   position: PhD in CSE
   data: Feb. 2012 - Jan. 2015
