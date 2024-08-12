@@ -1,17 +1,40 @@
+# "Your Name":
+#   bold: true
+
+# "Pengfei Xu":
+#   bold: true
+
+
+# "Hongbo Fu":
+#   # url: https://hongbofu.people.ust.hk/
+
+# "Chiew-Lan Tai"
+#   # url: https://www.cse.ust.hk/~taicl
+
+# "Hui Huang"
+
+# "Youyi Zheng"
+
 "Your Name":
   bold: true
 
-"Pengfei Xu":
-  bold: true
+"Robert White":
+  url: https://www.google.com/?q=Robert+White
 
+"Charles Green (MIT)":
+  name: Charles Green
+  url: https://www.google.com/?q=Charles+Green+MIT
 
-"Hongbo Fu":
-  # url: https://hongbofu.people.ust.hk/
+"Charles Green (Stanford)":
+  name: Charles Green
+  url: https://www.google.com/?q=Charles+Green+Stanford
 
-"Chiew-Lan Tai"
-  # url: https://www.cse.ust.hk/~taicl
+"Garrett Harris":
+  url: https://www.google.com/?q=Garrett+Harris
 
-"Hui Huang"
+"James Wang":
+  url: https://www.google.com/?q=James+Wang
 
-"Youyi Zheng"
+"John Doe":
+  url: https://www.google.com/?q=John+Doe
 
