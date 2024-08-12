@@ -12,7 +12,7 @@
                             {% if position.logo -%}
                             <img src="{{ position.logo | relative_url }}" alt="Logo" class="inline-badge"/>
                             {%- endif %}
-                            {{ position.name} {"@"} { position.affiliation}}
+                            {{ position.name} "@" { position.affiliation}}
                             {{ position.address}}<br/>
                             {% endfor %}
                         </div>
