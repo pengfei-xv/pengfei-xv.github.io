@@ -3,14 +3,14 @@ secondary_name: ""
 navbar_name: "Pengfei Xu"
 
 positions:
-# - logo: /assets/images/badges/PKU_red.png  # Logo is optional
+ - logo: /assets/images/badges/SZU.png  # Logo is optional
 #   name: Position 1 with logo
 - name: Associate Professor @ Shenzhen University
 # - affiliation: Shenzhen University
 - address: L6-808-B, South Campus, Shenzhen University, China
 
 
-email: "xupengfei.cg@email.com" 
+email: "xupengfei.cg@gmail.com" 
 email2: "pengfeixu@szu.edu.cn"
 # cv_link: link-to-your-cv-file
 gscholar: bmC8UcoAAAAJ
