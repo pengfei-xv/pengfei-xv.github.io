@@ -1,11 +1,11 @@
 primary_name: "Pengfei Xu"
-secondary_name: "Pengfei"
+secondary_name: ""
 navbar_name: "Pengfei Xu"
 
 positions:
 # - logo: /assets/images/badges/PKU_red.png  # Logo is optional
 #   name: Position 1 with logo
-- name: Associate Professor
+- name: Associate Professor @ 
 - affiliation: Shenzhen University
 
 
