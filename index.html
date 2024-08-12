@@ -24,17 +24,17 @@ navbar_title: Home
 {% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
 
 
-<!-- <div class="col-12 col-lg-10">
+<div class="col-12 col-lg-10">
     {% for year in pubs_by_year %}
     {% assign num_papers = year.items | size %}
     <h2 class="pt-4" id="year-{{ year.name }}">{{ year.name }}</h2>
     <div class="my-0 p-0 bg-white shadow-sm rounded-sm">
         {% for item in year.items %}
-            {% include widgets/publication_item.html item=item %}
+            {% include widgets/publication_card.html item=item %}
         {% endfor %}
     </div>
     {% endfor %}
-</div> -->
+</div>
 
 
 <!-- <div class="row">
@@ -61,11 +61,11 @@ navbar_title: Home
 </div> -->
 
 
-{% if site.data.display.homepage.show_selected_publications %}
+<!-- {% if site.data.display.homepage.show_selected_publications %}
 {% assign pubs = site.publications | sort: "date" | reverse | where: "selected", true %}
 {% 
     include widgets/publication_card.html 
     publications=pubs
     title='<i class="fas fa-star"></i> Selected Publications'
 %}
-{% endif %}
+{% endif %} -->
