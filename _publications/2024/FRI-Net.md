@@ -1,6 +1,6 @@
 ---
 title:          "FRI-Net: Floorplan Reconstruction via Room-wise Implicit Representation"
-date:           2024-7
+date:           2024-7-12 00:01:00 +0800
 selected:       true
 pub:            "European Conference on Computer Vision (ECCV)"
 # pub_pre:        "Submitted to "
