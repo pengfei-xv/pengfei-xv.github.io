@@ -13,8 +13,11 @@
                             <img src="{{ position.logo | relative_url }}" alt="Logo" class="inline-badge"/>
                             {%- endif %}
                             {{ position.name}}
-                            {{ position.address}}<br/>
                             {% endfor %}
+                        </div>
+                        <div class="text-profile-position">
+                            {{site.data.profile.address }}
+                            <br/>
                         </div>
                         <div class="text-profile-bio mt-3">
                             {{ site.data.profile.short_bio }}
