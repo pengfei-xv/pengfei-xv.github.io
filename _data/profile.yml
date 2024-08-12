@@ -30,7 +30,7 @@ short_bio: >-
 
 portrait_url: /assets/images/photos/portrait.jpg
 portrait_caption: >-
-  Pengfei Xu, Shenzhen University).
+  Pengfei Xu, Shenzhen University.
 
 education:
 - name: Zhejiang University
@@ -54,7 +54,7 @@ experience:
   position: Research Intern
   date: Sep. 2009 - Jan. 2010
 
-  name: HKUST
+- name: HKUST
   logo: /assets/images/badges/PKU_red.png
   position: postdoctoral research fellow 
   date: Feb. 2015 - Feb. 2016
