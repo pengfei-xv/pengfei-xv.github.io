@@ -13,12 +13,12 @@ pub_date:       "2024"
 cover:          /assets/images/covers/SmartSmudge.png
 authors:
   - Ying Jiang
-  - Pengfei XU
+  - Pengfei Xu
   - Congyi Zhang
   - Hongbo Fu
   - Henry Lau
   - Wenping Wang
 links:
-  paper: https://arxiv.org/html/2405.02759v1
+  Paper: https://arxiv.org/html/2405.02759v1
   Video: https://www.youtube.com/watch?v=x6iYQxnVQsM
 ---

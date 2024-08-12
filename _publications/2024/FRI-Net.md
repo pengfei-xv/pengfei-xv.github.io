@@ -20,5 +20,4 @@ authors:
   - Ruizhen Hu
 links:
   Code: https://github.com/Daisy-1227/FRI-Net
-  Unsplash: https://unsplash.com/photos/sliced-in-half-pineapple--_PLJZmHZzk
 ---

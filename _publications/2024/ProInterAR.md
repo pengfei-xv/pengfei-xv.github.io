@@ -18,7 +18,7 @@ authors:
   - Karan Singh
   - Hongbo Fu
 links:
-  paper: https://huiye19.github.io/documents/prointerar.pdf
+  Paper: https://huiye19.github.io/documents/prointerar.pdf
   Video: https://youtu.be/n7rIRIqmWqA
   # Supplemental: https://www.youtube.com/watch?v=UCf7U0DFEqk
 ---
