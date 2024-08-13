@@ -23,24 +23,7 @@ navbar_title: Home
 {% endif %}
 
 
-
-{% assign pubs_by_year = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
-
-
-
-<!-- <h3 class="pt-4" id="Publications">Publications</h3>
-{% for year in pubs_by_year %}
-    {% assign num_papers = year.items | size %}
-    <div class="my-0 p-0 bg-white shadow-sm rounded-sm">
-        {% for item in year.items %}
-            {% include widgets/publication_item.html item=item %}
-        {% endfor %}
-    </div>
-{% endfor %} -->
-
-
-
-{% assign pubs = site.publications | sort: "date" | reverse | group_by_exp: "item", "item.date | date: '%Y'" %}
+{% assign pubs = site.publications | sort: "date" | reverse %}
 {% 
     include widgets/publication_card.html 
     publications=pubs
