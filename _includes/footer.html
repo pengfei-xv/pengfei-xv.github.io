@@ -15,7 +15,7 @@
     </div>
 </footer> -->
 
-<footer class="footer footer-expand-sm footer-light bg-light mb-5 shadow-sm">
+<!-- <footer class="footer footer-expand-sm footer-light bg-light mb-5 shadow-sm">
     <div class="container">
         <div class="row my-3">
             <div class="col-6">
@@ -27,6 +27,20 @@
                 <div class="text-right text-muted">
                     {{ site.data.display.footer_text }}
                 </div>
+            </div>
+        </div>
+    </div>
+</footer> -->
+
+<footer class="footer footer-expand-sm footer-light bg-light mb-5 shadow-sm">
+    <div class="container">
+        <div class="text-muted">
+            <i>Last updated: {{ "now" | date: "%b %Y" }}</i>
+        </div>
+
+        <div class="col-6">
+            <div class="text-right text-muted">
+                {{ site.data.display.footer_text }}
             </div>
         </div>
     </div>
