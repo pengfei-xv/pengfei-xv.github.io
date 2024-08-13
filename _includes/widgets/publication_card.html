@@ -4,7 +4,7 @@
         {{ include.title }} 
     </h6>
 
-    {% for item in publications.items %}
+    {% for item in publications %}
         {% include widgets/publication_item.html item=item %}
     {% endfor %}
     <!-- {% for year in pubs_by_year %}
